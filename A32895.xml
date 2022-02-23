@@ -1,0 +1,370 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christian valor encouraged, or, The Turk's downfal and, probably, (out of many prophecies) / by Whom.</title>
+            <author>Women Historians of the Midwest.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32895</idno>
+            <idno type="STC">Wing C3951</idno>
+            <idno type="STC">ESTC R40810</idno>
+            <idno type="EEBO-CITATION">19327962</idno>
+            <idno type="OCLC">ocm 19327962</idno>
+            <idno type="VID">108628</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32895)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108628)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1683:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christian valor encouraged, or, The Turk's downfal and, probably, (out of many prophecies) / by Whom.</title>
+                  <author>Women Historians of the Midwest.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Leake, and are to be sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Satire.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Louis --  XIV, --  King of France, 1638-1715.</term>
+               <term>Holy League against the Turks, 1684.</term>
+               <term>France --  History --  Louis XIV, 1643-1715.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108628:1" rendition="simple:additions"/>
+            <p>Chriſtian Valor ENCOURAGED: OR THE <hi>Turk's Downfal:</hi> And, Probably, (Out of many PROPHECIES) By WHOM.</p>
+            <lg>
+               <l>Turca <hi>cadat,</hi> Gallus <hi>Lunaria Cornua rumpat,</hi>
+               </l>
+               <l>
+                  <hi>Ac Orientalem (Divina dote) Coronam</hi>
+               </l>
+               <l>Conſtantinopoli <hi>(Sacratus rite) reſumat.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Down <hi>Turk!</hi> May Great <hi>French Lewis</hi> break thy Horn;</l>
+               <l>And let <hi>Conſtantine</hi>'s Crown his Head adorn.</l>
+            </lg>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Leake;</hi> and are to be ſold by <hi>Randal Taylor,</hi> near <hi>Stationers-Hall,</hi> 1684.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:108628:2"/>
+            <pb n="3" facs="tcp:108628:2"/>
+            <head>THE Turks Downfal: And probably (out of many Prophecies) by Whom.</head>
+            <p>EVery <hi>Hiſtorian</hi> knows the Pretenſions of the <hi>French</hi> to the <hi>Empire:</hi> And as to the <hi>Low-Countries,</hi> there was a Book <hi>Printed in the Savoy</hi> 1667. Tranſla<g ref="char:EOLhyphen"/>ted out of <hi>French;</hi> whoſe Title was, <hi>A Dialogue concern<g ref="char:EOLhyphen"/>ing the Rights of Her moſt Chriſtian Majeſty.</hi> To which I ſhall only add, That at that very Time when <hi>Robert</hi> Earl of <hi>Flanders</hi> died <hi>ſans</hi> Iſſue, whereby the ſaid Earldom, accor<g ref="char:EOLhyphen"/>ding to Tenure, fell into the <hi>French</hi> King's Hands; he by Conſent of the Lords of the Country, was put into Peace<g ref="char:EOLhyphen"/>able Poſſeſſion thereof. But if this King had no Title, yet ſome think he does not amiſs, to make himſelf ſome Amends for the Surprizal of <hi>Navarre.</hi> And if <hi>Navarre,</hi> his Grand-Father's Native Kingdom, and Paternal Inhe<g ref="char:EOLhyphen"/>ritance, were reſtor'd, and <hi>Flanders</hi> then ſuffer'd to be quiet, it would be well for the Kings and People of thoſe Countries. King <hi>David</hi> made choice of <hi>Peſtilence,</hi> rather than <hi>War.</hi>
+            </p>
+            <pb n="4" facs="tcp:108628:3"/>
+            <q>
+               <l>Quicquid delirant Reges, plectuntur Achivi.</l>
+               <l>When Kings ſelf-will'd Deſigns purſue,</l>
+               <l>Th'unhappy Vaſſals muſt it rue.</l>
+            </q>
+            <p>As to the Pretenſions to the <hi>Empire:</hi> The Deſigns and Actions ſucceeding, and purſuant to them, have made a great Noiſe and Stir: But the Raiſing the Siege of <hi>Vien<g ref="char:EOLhyphen"/>na,</hi> evidently ſhews, That <hi>God, per quem Reges regunt,</hi> Prov. 8.16. has Eſtabliſh'd it where it is. And if in the Time of <hi>Charles the Simple,</hi> the <hi>Francones</hi> and <hi>Saxones</hi> were diſtaſted with the <hi>French,</hi> and choſe an <hi>Emperor</hi> of their own Blood, <hi>(Henricus Auceps)</hi> certainly the <hi>Ger<g ref="char:EOLhyphen"/>man</hi> Nation, after ſo long an Eſtabliſhment, will be ve<g ref="char:EOLhyphen"/>ry loth to change their accuſtomed and uſual Succeſ<g ref="char:EOLhyphen"/>ſion.</p>
+            <q>
+               <l>Romanum Imperium Germana corona tenebit;</l>
+               <l>Transferri Gallis non voluere Dii.</l>
+               <l>The Roman Rule with Germans ſhall remain;</l>
+               <l>The Gods deny the French it to attain.</l>
+            </q>
+            <p>We read in <hi>Holy Writ,</hi> of a Time and Seaſon when Kings go out to Battle. This Great <hi>Louis</hi> goes not to War up<g ref="char:EOLhyphen"/>on ſuch Cuſtomary Account: His Inclination to Arms is Sidereal and Natural. <hi>Chaucer,</hi> in his Tale of the Wife of <hi>Bath,</hi> ſays,
+<q>
+                  <l>I followed ay mine Inclination,</l>
+                  <l>By vertue of my Conſtellation.</l>
+               </q>
+            </p>
+            <p>If then he muſt be doing, (for ſo it is) What Happi<g ref="char:EOLhyphen"/>neſs would redound to <hi>Europe,</hi> if he turn'd his Inclina<g ref="char:EOLhyphen"/>tion,
+<pb n="5" facs="tcp:108628:3"/>Endeavour and Arms againſt the <hi>Turk?</hi> No Prince fitter or abler to cope with him, than he.</p>
+            <p>
+               <hi>Pieter van den Broeck,</hi> in his Voyages and Travels, com<g ref="char:EOLhyphen"/>pares the King of <hi>Spain,</hi> and the Great <hi>Turk</hi> together: Says he; <hi>In macht zyn deſe Malcanderen ſeer gelyck. <hi>In Power theſe Two are very much alike.</hi>
+               </hi> But as the <hi>Roman Empire,</hi> (according to the Prophecy of the <hi>Druids</hi>) <hi>Tran<g ref="char:EOLhyphen"/>ſalpinis Gentibus portenditur,</hi> is transferr'd to the <hi>Tranſal<g ref="char:EOLhyphen"/>pine</hi> Nations; ſo the <hi>Potentia Hiſpanica, Pyreneos tranſi<g ref="char:EOLhyphen"/>vit Montes, &amp; Gallis transfertur;</hi> the <hi>Spaniſh</hi> Greatneſs is got over the <hi>Pyrenean</hi> Hills, and reſides in the <hi>French</hi> Tents.</p>
+            <p>But to return: He hath in this kind the Precedent of his Predeceſſors; <hi>Philip</hi> the Firſt, <hi>Lewis</hi> the Seventh, that went to the <hi>Holy-Land</hi> in Perſon againſt the <hi>Saracens</hi> and <hi>Turks; Philip</hi> the Second, <hi>Lewis</hi> the Ninth.</p>
+            <p>I have mentioned before, this Great King hath aſſerted his Title to <hi>Flanders:</hi> He may be pleaſed then to re<g ref="char:EOLhyphen"/>member, That <hi>Baldwin</hi> Earl of <hi>Flanders,</hi> (his Predeceſ<g ref="char:EOLhyphen"/>ſor as to that <hi>Province</hi>) was <hi>Anno</hi> 1194. choſen Empe<g ref="char:EOLhyphen"/>ror of <hi>Conſtantinople;</hi> and that <hi>Charles</hi> the Eighth had that Title confer'd upon him by Pope <hi>Alexander</hi> the Sixth. An Empire certainly eaſier to be attain'd, than that of <hi>Germany;</hi> being ſo ſtrongly guarded with ſo many Prince<g ref="char:EOLhyphen"/>ly <hi>Satellites,</hi> for Intereſt ſake. On the contrary, the O<g ref="char:EOLhyphen"/>ther muſt ſtand <hi>per ſe,</hi> having ſo many Enemies round about, (the Curſe and Maledictions of ſo many oppreſſed Vaſſals); and no <hi>Chriſtian Prince,</hi> though lying remote, but would contribute Men and Money to ſo Univerſal a Good, were it ſet on foot.</p>
+            <p>If this <hi>Empire</hi> be not attainable in <hi>Toto;</hi> yet certain<g ref="char:EOLhyphen"/>ly in <hi>Part,</hi> and ſome goodly Limbs thereof, it is attainable and atchievable.</p>
+            <list>
+               <pb n="6" facs="tcp:108628:4"/>
+               <item>1. There is <hi>Cyprus;</hi> a wonderful Antient Kingdom, even as old as the Deſtruction of <hi>Troy;</hi> and was in the <hi>French</hi> Hands Two hundred thirty and odd Years: An Iſland commodious for Shipping. See <hi>Heylin;</hi> and <hi>Fa<g ref="char:EOLhyphen"/>vine,</hi> in his <hi>Theatre of Honour,</hi> ſpeaking of the Houſe of <hi>Luſignan,</hi> and the Military Order of the Sword in that I<g ref="char:EOLhyphen"/>ſland.</item>
+               <item>2. <hi>Crete</hi> or <hi>Candy;</hi> a brave Iſland, and alſo commodi<g ref="char:EOLhyphen"/>ous for Shipping: which was in the Power of the Em<g ref="char:EOLhyphen"/>peror <hi>Baldwin</hi> aforeſaid, who gave it to <hi>Boniface</hi> of <hi>Mont<g ref="char:EOLhyphen"/>ferrat:</hi> It hath one Haven, called <hi>Suda,</hi> capable of One thouſand Ships. This Great Prince, being Maſter of <hi>This,</hi> or <hi>Cyprus,</hi> (being ſo Potent in Shipping as he is of late become) What might he not be able to do in the <hi>Levant,</hi> (having already <hi>Marſeilles</hi> and <hi>Thoulon,</hi> famous Retraicts for a Navy) againſt the Barbarous <hi>Turks? Heylin</hi> tells us, The <hi>Florentine</hi> Duke, with a Fleet of Six Sail, over<g ref="char:EOLhyphen"/>aw'd the <hi>Turk</hi> in the <hi>Mediterranean.</hi>
+               </item>
+               <item>3. There is alſo <hi>Morea,</hi> or <hi>Peloponneſus;</hi> Six hundred Miles in compaſs: The moſt pleaſant Country of all <hi>Greece,</hi> abounding in all things neceſſary for the Life of Man, and in ſuch alſo as do ſerve for Delicacy and Content; adorn<g ref="char:EOLhyphen"/>ed with many goodly Plains, ſwelled with Fruitful Hills; well ſtored with Ports and Havens, on all Sides thereof: A Place eaſie to be fortified into the Quality and Circum<g ref="char:EOLhyphen"/>ſtances of an Iſland, by Immuring the <hi>Iſthmus,</hi> being but Six Miles in length, done by the <hi>Venetians</hi> in Fifteen Days. <hi>Hiſtorians</hi> tell us, That <hi>Demetrius</hi> King of <hi>Ma<g ref="char:EOLhyphen"/>cedon, Julius Caeſar,</hi> and <hi>Caligula</hi> attempted to cut through the <hi>Iſthmus,</hi> and make it a perfect Iſland: By none more eagerly purſued, than by the Emperor <hi>Nero;</hi> who took Spade in hand, to hearten on his Souldiers: Yet, at laſt, the Souldiers being frighted with the Blood which abun<g ref="char:EOLhyphen"/>dantly broke forth, with the Groans and Roarings which
+<pb n="7" facs="tcp:108628:4"/>they continually heard, and with the Spirits and Furies always in their Sights, perſwaded the Emperor to deſiſt. Who knows, but that Great <hi>Lewis,</hi> that hath not long ſince cut a Navigable River quite through his Famous Kingdom, <hi>à Mari uſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ad Mare,</hi> from Sea to Sea, may be the Man that ſhall effect what Heaven denied to the fore<g ref="char:EOLhyphen"/>named Princes? <hi>Faxit Deus.</hi>
+               </item>
+               <item>4. Mount <hi>Athos</hi> in <hi>Greece,</hi> ſtanding in a <hi>Peninſula:</hi> The <hi>Iſthmus</hi> of which being once cut through by <hi>Xerxes,</hi> (but ſince cloſed again) gives a Probability of what I mention, as to <hi>Morea.</hi> The Hill many Miles in Circuit; Three Days Journey long, as ſays <hi>Heylin.</hi>
+               </item>
+               <item>5. The foreſaid <hi>Morea,</hi> and alſo <hi>Achaia,</hi> have been in the Hands of Princes of the Houſe of <hi>France:</hi> So alſo <hi>Athens,</hi> as we find it confirmed to us by <hi>Saint Marthe</hi>'s <hi>Genealogick Hiſtory of France,</hi> pag. 1162, 1167, <hi>&amp;c. Me<g ref="char:EOLhyphen"/>mento,</hi> and Incouragement enough, to ſtir up this Great Prince of whom we ſpeak, to ſet this treated-of Deſign afoot, from ſuch juſt Pretenſions.</item>
+               <item>6. I will not ſpeak of <hi>Armenia,</hi> held as a Kingdom Two hundred ninety and ſix Years; and by the fore-recited Houſe of <hi>Luſignan,</hi> Five Deſcents: And lies near to <hi>Cyprus.</hi> See <hi>Favine.</hi>
+               </item>
+            </list>
+            <p>If any object, The <hi>French Monarch</hi> came off but ſomewhat flatly, in his Deſign upon <hi>Sicily:</hi> I confeſs it. When moſt Unchriſtianly he broke the <hi>Tenth Commandment,</hi> by Co<g ref="char:EOLhyphen"/>veting and unjuſtly entring upon his Brother and Neigh<g ref="char:EOLhyphen"/>bor's Propriety; what could any Man expect elſe? He that perhaps hath ſaid, <hi>I will give him the Heatheniſh</hi> Turks <hi>for his Inheritance,</hi> Pſal. 2.8. I am ſure, never command<g ref="char:EOLhyphen"/>ed him to diſturb the <hi>Catholick King</hi> in <hi>Sicily;</hi> in whoſe, and his Predeceſſor's Hands, it hath been Two hundred and fifty Years: And the <hi>French</hi> having no Pretenſions, but (firſt) from an unjuſt Donation of <hi>
+                  <g ref="char:V">Ʋ</g>rban</hi> the Fourth,
+<pb n="8" facs="tcp:108628:5"/>and (ſecondly) a pettiſh wayward, inconſtant Bequeath<g ref="char:EOLhyphen"/>ment of <hi>Joan</hi> Queen of <hi>Naples;</hi> who had firſt ſettled it upon the Houſe of <hi>Arragon,</hi> whoſe Deſcendants now enjoy it at this Day.</p>
+            <p>The <hi>Frenth</hi> have always been the Grand Undertakers a<g ref="char:EOLhyphen"/>gainſt the <hi>Saracens</hi> and <hi>Turks,</hi> in the <hi>Holy-Land,</hi> as I have ſaid before: And <hi>Theophilus Garenciers,</hi> in his Comment upon <hi>Noſtredamus,</hi> p. 391. ſays, <hi>The</hi> Turks <hi>themſelves have a Prophecy from among themſelves, their Monarchy ſhall be ſubverted by a King of</hi> France.</p>
+            <p>
+               <hi>Bartholomeus Georgenitz</hi> recites a <hi>Turkiſh</hi> Prophecy con<g ref="char:EOLhyphen"/>cerning the taking of <hi>Conſtantinople;</hi> which is ſtiled, <hi>Rubrum Pomum,</hi> the <hi>Red Apple:</hi> And it hints, <q>That <hi>Poſt duode<g ref="char:EOLhyphen"/>cimum Annum,</hi> after the Twelfth Year ſhall appear the Sword of the <hi>Chriſtians,</hi> which ſhall every where put the <hi>Turk</hi> to Flight.</q>
+            </p>
+            <p>My Author obſerves, The Expoſition made by the ſaid <hi>Bartholomeus,</hi> (who wrote of the Original and Manners of the ſaid <hi>Turks</hi>) fell not out well: For, ſays he, <hi>'Tis not only Twelve Years, but an Hundred Years, ſince their Winning of the ſaid</hi> Conſtantinople.</p>
+            <p>Now, for my part, my Opinion is: It is not meant of Twelve ſimple or ſingular Years, but of Twelve certain Numbers of Years; as Twenty Years is a compleat Num<g ref="char:EOLhyphen"/>ber in a Man's Age, <hi>(Aetas Perfectionis)</hi> when the Cor<g ref="char:EOLhyphen"/>poral Strength, and Mental Intellect come to a Perfection. Now Twelve times Twenty is Two hundred and forty. <hi>Conſtantinople</hi> was taken One thouſand four hundred fifty and two; take that from One thouſand ſix hundred eigh<g ref="char:EOLhyphen"/>ty and four, and there remains Two hundred thirty and two; which wants Eight Years of Two hundred and forty. Suppoſe then Great <hi>Louis</hi> ſhould now ſet Hand to Sword; probably, in ſo many Years, he might do the Work; <hi>Turcam quaqua verſum in fugam agere,</hi> (as the Pro<g ref="char:EOLhyphen"/>phecy
+<pb n="9" facs="tcp:108628:5"/>has it): Having firſt beat him out of the <hi>Pourlieus</hi> before-mentioned, at the end of the ſaid Term, he might become Maſter of the <hi>Red Apple,</hi> poſſeſt Sixty Years by <hi>Baldwin,</hi> and his Succeſſors. <hi>Notredamus</hi> ſays;
+<q>
+                  <l>Dans le Danube &amp; le Rhin, viendra Boire</l>
+                  <l>Le Grand Chameau, ne ſen repentira</l>
+                  <l>Trembler le Rhone, &amp; plus fort ceux de Loire</l>
+                  <l>Et pres des Alpes le Coq le Ruinera.</l>
+                  <l>Danubius and Rhine ſhall Drink afford</l>
+                  <l>To the Grand Camel, who ſhall them aboard:</l>
+                  <l>The Rhone and Loire great Terror ſhall annoy;</l>
+                  <l>But near the Alpes the Cock ſhall him deſtroy.</l>
+               </q>
+            </p>
+            <p>
+               <hi>Danubius,</hi> and the <hi>Rhine,</hi> Two eminent and principal Rivers, are put for the Country where they run, <hi>viz. Ger<g ref="char:EOLhyphen"/>many;</hi> ſo the <hi>Rhone</hi> and <hi>Loire</hi> for <hi>France:</hi> A figurative manner of Speech, common among Poets. I could give ſeveral Inſtances; but let one (out of <hi>Martial</hi>) ſuffice, <hi>Lib.</hi> 10. <hi>Ep.</hi> 26. to <hi>Varus,</hi> that Eminent <hi>Roman</hi> Commander;
+<q>
+                  <l>Spargere non licuit frigentia fletibus ora,</l>
+                  <l>Pinguia, nec maeſtis addere Thura Rogis;</l>
+                  <l>Sed datur aeterno victurum carmine Nomen;</l>
+                  <l>Nunquid &amp; hoc fallax Nile negare potes?</l>
+                  <l>
+                     <hi>Thus Tranſlated by</hi> Weaver.</l>
+                  <l>We could not dew with Tears thy dying Face,</l>
+                  <l>Nor thy ſad Funeral Flames with Odors grace:</l>
+                  <l>Yet in my Verſe Eterniz'd thou ſhalt be;</l>
+                  <l>Of That falſe Egypt cannot cozen Thee.</l>
+                  <l>[Martial <hi>has it</hi> Nilus; Weaver, Egypt.]</l>
+               </q>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:108628:6"/>
+The Great <hi>Turk</hi> is meant by the Great <hi>Camel;</hi> an Ani<g ref="char:EOLhyphen"/>mal abounding in his Dominions, and which he makes great uſe of in his Armies for Carriage. We read of Three hundred of them, that ſwam over the <hi>Danubius,</hi> (at the late Seige of <hi>Vienna</hi>) to the <hi>Chriſtians.</hi>
+            </p>
+            <p>By the <hi>Cock</hi> is meant the <hi>French</hi> King, <hi>Gallus</hi> in <hi>Latine.</hi> Here is a plain Prediction; The <hi>French</hi> King is the Prince ordain'd by <hi>God,</hi> for the Deſtruction of the <hi>Turk.</hi>
+            </p>
+            <lg>
+               <head>
+                  <hi>The ſame</hi> Author <hi>has Another.</hi>
+               </head>
+               <l>Dans Foix entre, Roy cerulée Turban,</l>
+               <l>Et Regnera moins evolu Saturne,</l>
+               <l>Roy Turban Blanc Bizance coeur ban,</l>
+               <l>Sol, Mars, Mercurie prez la Hurne.</l>
+            </lg>
+            <p>I will give you <hi>Garenciere</hi>'s Expoſition, <hi>pag.</hi> 391. as follows. Though I am not of his Mind, in Tranſlating <hi>Moins evolu Saturne, viz.</hi> leſs than an Age; that is, One hundred Years. Now, <hi>Saturn</hi> runs his Courſe in Thirty Years, or there-about: But let's hear him.</p>
+            <p>
+               <q>
+                  <hi>Foix</hi> is a Country of <hi>France</hi> near <hi>Gaſcony;</hi> where (the <hi>Author</hi> ſays) a King, with a <hi>Blue Turban,</hi> ſhall come, and ſhall Govern leſs than an Age; that is, One hundred Years: After which, another King ſhall come with a <hi>White Turban,</hi> and ſhall Conquer <hi>Bizance;</hi> that is, <hi>Con<g ref="char:EOLhyphen"/>ſtantinople.</hi>
+               </q>
+            </p>
+            <p>
+               <q>The <hi>Blue</hi> or <hi>Green Turban</hi> is attributed to the Great <hi>Turk;</hi>
+               </q> and the <hi>White</hi> one to the King of <hi>France.</hi> Thus <hi>Garencieres.</hi>
+            </p>
+            <p>For my part, I ſhould think <hi>Foix</hi> ſhould be <hi>Foy Fides,</hi> the <hi>Land of Chriſtendom:</hi> For what the Great <hi>Turk</hi> ſhould do in the little Country of <hi>Foix,</hi> I cannot imagine: But he hath held a Part of <hi>Hungary</hi> many Years, <hi>&amp;c.</hi> Or, it
+<pb n="11" facs="tcp:108628:6"/>may be, by <hi>Foix</hi> he means <hi>France, (Pars pro Toto);</hi> for an Eminent Country it was. <hi>Heylin</hi> doth tell us, <q>The Earls of it lived in a Condition equal to moſt Kings in <hi>Chriſtendom;</hi> That at one Time there were Four Queens of the Family; and, That the latter Kings of <hi>Navarre,</hi> and preſent Kings of <hi>France</hi> deſcend from it.</q> Be it as it will, ſtill the <hi>Rex Gallus</hi> muſt be the <hi>Cock</hi> of the Game, that muſt do the Work.</p>
+            <p>If <hi>Notredamus</hi> be but as effectual in theſe Fore-tellings, as he was in the Firing of <hi>London,</hi> and another Tragical Effect, <hi>Horreſco ruminans, omitto lubens,</hi> they will aſſured<g ref="char:EOLhyphen"/>ly come to paſs. You ſhall hear his <hi>Stanza.</hi>
+            </p>
+            <q>
+               <l>Le Sang du Juſte, a Londres fera faute,</l>
+               <l>Brulez par foudre de vint trois le Six:</l>
+               <l>La Dame Antique cheorra de place haute,</l>
+               <l>De meſme Secte pluſieurs ſeront Occis.</l>
+            </q>
+            <p>
+               <hi>Thus Tranſlated:</hi>
+            </p>
+            <q>
+               <l>LONDON gets Guilt by Blood of one moſt Juſt;</l>
+               <l>In Sixty-ſix by Lightning is combuſt.</l>
+               <l>The Antient Lady tumble ſhall full low,</l>
+               <l>And many of her Sect be ſlain, all Woe!</l>
+            </q>
+            <p>By the <hi>Antient Lady</hi> is meant the Cathedral of St. <hi>Paul;</hi> and the many other ſubordinate Parochial Churches, de<g ref="char:EOLhyphen"/>ſtroy'd, are thoſe of her <hi>Sect;</hi> her <hi>Dominellae</hi> or <hi>Ancille,</hi> her Hand-maids.</p>
+            <p>The Prophecies of <hi>Joachim</hi> ſay thus. <q>The <hi>Turk</hi> ſhall be deſtroy'd by Three Nations: By the <hi>French, Propter bonos Equites,</hi> for their excellent Cavalry; by the <hi>Eng<g ref="char:EOLhyphen"/>liſh, Propter bonos Marinarios,</hi> for their excellent Seamen;
+<pb n="12" facs="tcp:108628:7"/>and by the <hi>Venetians, Propter bonum Conſilium,</hi> for their prudent Counſels.</q> This Prophecy is worthy of Remark; and ſtill the <hi>French</hi> in the Van.</p>
+            <p>The <hi>Venetians</hi> very lately, <hi>Speremus influente, favente Deo,</hi> with their Confederates, have begun to dare the <hi>Turk.</hi> No doubt, they proceeded upon good Ground and Adviſement: And they made good Preparations. But where's the <hi>French</hi> Cavalry, and the <hi>Engliſh</hi> Mariners, to make up <hi>Joachim</hi>'s Ternary?</p>
+            <p>I heard an honeſt <hi>Divine</hi> ſay, when the <hi>French</hi> made the great Inrodes into <hi>Belgia;</hi> 
+               <q>That certainly, this was the Man ſhould, in a due Time, ruin the <hi>Turk:</hi> But he was firſt to do wonderful things elſe-where, to give Proof of his Conduct, Management and Succeſs.</q>
+            </p>
+            <q>
+               <l>
+                  <g ref="char:V">Ʋ</g>na dies Lotharos, Burgundos Hebdomas una,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>na domat Batavos Luna; quid Annus aget?</l>
+               <l>Loraine a Day, Burgoigne a Week does gain,</l>
+               <l>Holland a Month; what may a Year obtain?</l>
+            </q>
+            <p>
+               <q>And that, if he did not in time endeavour ſuch a Thing, (being a Great Second <hi>Cyrus,</hi> ſee <hi>Iſa.</hi> 45. <hi>Ver.</hi> 1, 2, 3.) he muſt expect ill Succeſs, if not ſomething worſe.</q>
+            </p>
+            <p>I know a certain Perſon (curious in <hi>Aſtrology,</hi> that, not<g ref="char:EOLhyphen"/>withſtanding all theſe wonderful Acts already gloriouſly performed, fears exceedingly, he will make an End, though not ſo violent and bloody as Great <hi>Cyrus</hi> the Firſt; yet lugubrous and untimely enough.</p>
+            <p>For my part, I cannot (like the <hi>Cloak Party</hi>) furiouſly decry <hi>Aſtrology,</hi> being a ſingular and innocent Science, be<g ref="char:EOLhyphen"/>fitting any Man of Parts above the Vulgar: But I love to joyn <hi>Divinity</hi> with it. And therefore, I firmly believe, that as the <hi>Sun</hi> and <hi>Moon</hi> (thoſe great Lights) ſtood ſtill
+<pb n="13" facs="tcp:108628:7"/>in favor of worthy <hi>Joſhua,</hi> (<hi>Chap.</hi> 10.) and that the Firſt of theſe went Ten Degrees backward, for a Sign to <hi>Heze<g ref="char:EOLhyphen"/>kiah,</hi> (2 <hi>King.</hi> 20.11. <hi>Iſa.</hi> 38.8.) that all Malevolent In<g ref="char:EOLhyphen"/>fluences are averted from this Great <hi>French</hi> Prince, for the Good of <hi>Chriſtendome,</hi> and Downfal of the <hi>Turk.</hi>
+            </p>
+            <q>
+               <l>Ad Chriſtianiſſimum Regem.</l>
+               <l>Baldwini ſolium, Caroli Titulum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> memento:</l>
+               <l>Haec moveant animum Rex <hi>Lodovice</hi> tuum:</l>
+               <l>Chriſticolas placidae mandato<note n="*" place="margin">Iſa. 45.1, 2, 3.</note> 
+                  <hi>Cyre</hi> quieti,</l>
+               <l>In Turcam validas vertito, Magne, manus.</l>
+               <l>Let <hi>Baldwin</hi>'s Throne, and <hi>Charles</hi> his Title heat;</l>
+               <l>Thy Thoughts, by aim at Theſe, become more Great</l>
+               <l>Great <hi>Cyrus,</hi> daign to give the Chriſtians Eaſe,</l>
+               <l>And let thy Force the Turks alone debrize.</l>
+            </q>
+            <p>I have already mentioned, the <hi>French Monarch</hi> is become Potent in Shipping: But he is not King of the <hi>Engliſh</hi> Mariners; which muſt make up the Ternary, according to <hi>Joachim.</hi>
+            </p>
+            <p>Strange Revolutions have happened in <hi>England,</hi> ſince the Year 1678. That Generous <hi>Maximus Marinus,</hi> (men<g ref="char:EOLhyphen"/>tion'd in <hi>Day-Fatality,</hi> pag. 7.) once Great Admiral of <hi>Ar<g ref="char:EOLhyphen"/>ragon,</hi> and till the Year 1673. Lord High Admiral of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> is now again, at length, Re-inveſted in all his Ho<g ref="char:EOLhyphen"/>nors; and that, in ſpight of that Crew, mention'd by <hi>Introductio ad Latinam Blaſoniam,</hi> pag. 165. with ſtrange Prophetick Reflection.</p>
+            <p>He, I ſay, is Reſtor'd, influenc'd by a Divine Power and Favor, and the Benevolent Rays of Fraternal Love; the Love of the Greateſt Sea-Prince in the World, <hi>Charles le Bon, &amp; le Grand;</hi> One born for the Good of <hi>Chriſten<g ref="char:EOLhyphen"/>dom,</hi> to make Amends for his Miraculous Reſtorement.</p>
+            <p>
+               <pb n="14" facs="tcp:108628:8"/>
+Pray <hi>God</hi> incline the Heart of the Great <hi>French Cyrus,</hi> the Heart of the Great <hi>Charles</hi> of <hi>Great Britain;</hi> and then the <hi>French</hi> Cavalry, and the <hi>Engliſh</hi> Mariners, (influenc'd by the Auſpicious Genius and Succeſs of Prince <hi>Maximus Marinus,</hi> his Royal Highneſs) will be aſſiſtant to the <hi>Venetian</hi> Counſels and Undertakings, already upon the Wheels.</p>
+            <p>To ſatisfie the Curious, I have added <hi>Geornitz</hi> Prophe<g ref="char:EOLhyphen"/>cy <hi>verbatim,</hi> as I find it in <hi>Latine,</hi> Tranſlated out of <hi>Per<g ref="char:EOLhyphen"/>ſian:</hi>
+            </p>
+            <q>Imperator noſter veniet. Ethnici Principis Regnum capiet, Rubrum quo<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> pomum capiet, &amp; in ſuam poteſtatem rediget: Quod ſi ſeptimum uſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Annum Chriſtianorum gladius non in<g ref="char:EOLhyphen"/>ſurrexerit; uſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ad duodecimum Annum eis dominabitur, do<g ref="char:EOLhyphen"/>mos aedificabit, Vineas plantabit, Hortos ſepibus muniet, li<g ref="char:EOLhyphen"/>beros procreabit, &amp; poſt duodecimum Annum, apparebit Chri<g ref="char:EOLhyphen"/>ſtianorum gladius, qui Turcam quaquaverſum in fugam a<g ref="char:EOLhyphen"/>get.</q>
+            <p>
+               <q>Our Emperor ſhall come. He ſhall get the Kingdom of the <hi>Gentiles Prince:</hi> Alſo, he ſhall take the <hi>Red Apple,</hi> and ſhall bring it under his Subjection: And if the Sword of the <hi>Chriſtians</hi> ſhall not riſe after the Seventh Year, he ſhall have Dominion over them unto the Twelfth Year. He ſhall build Houſes, plant Vineyards: Shall hedge about his Orchards, ſhall get Children. And after the Twelfth Year, ſhall appear the Sword of the <hi>Chriſtians,</hi> which ſhall put the <hi>Turk</hi> to Flight every where.</q>
+            </p>
+            <p>It is to be noted, That the Sword of the <hi>Chriſtians</hi> is principally underſtood of the <hi>French;</hi> becauſe he is com<g ref="char:EOLhyphen"/>monly ſtiled, the <hi>Moſt Chriſtian King.</hi>
+            </p>
+            <p>
+               <pb n="15" facs="tcp:108628:8"/>
+To Conclude, and ſhut up All: It is confeſt, that in all Ages have been Prophecies of Future Events; yet ma<g ref="char:EOLhyphen"/>ny times ſo obſcure, as not to be underſtood, or if under<g ref="char:EOLhyphen"/>ſtood, not to be believed. But truly, what is here pro<g ref="char:EOLhyphen"/>duced ſeems obvious to every Man's Underſtanding: And as to the Qualification and Poſſibility of the Perſon, no<g ref="char:EOLhyphen"/>thing can be objected; and who, beſides Him, can lay Claim to ſuch Pretenſions and Encouragements? <hi>Prov.</hi> 21.1. <hi>God rules the Heart of Kings.</hi> Let all <hi>Chriſtendom</hi> pray, That <hi>God</hi> would incline the Heart of the <hi>Moſt Chri<g ref="char:EOLhyphen"/>ſtian King,</hi> to ſo Pious an Enterprize.</p>
+            <q>
+               <l>Rex Lodovice tuam ſubito quam ſuſcipe Spartam;</l>
+               <l>Debellare Scythas operum mihi crede tuorum.</l>
+               <l>
+                  <hi>Good</hi> Lewis, <hi>with all ſpeed, begin thy Work;</hi>
+               </l>
+               <l>
+                  <hi>Thy Work it is to ſubjugate the</hi> Turk.</l>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="epigraph">
+            <lg>
+               <l>—Qui quondam Fata Dierum,</l>
+               <l>Signa<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Cygnorum; ſcripſit hunc at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Li<g ref="char:EOLhyphen"/>bellum.</l>
+            </lg>
+         </div>
+      </back>
+   </text>
+</TEI>
